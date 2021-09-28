@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsedberg&theme=tokyonight)
 <!--
