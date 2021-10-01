@@ -4,8 +4,15 @@ My current favorite language is TypeScript.
 
 Currently I am working on:
 - ReactJS frontend
-- Node w/ Typescript backend
+- NodeJS w/ Typescript backend
+
+I am learnign libraries like:
 - DiscordJS
+- Express
+- React
+- Socket.io
+- http-proxy
+
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)-->
 
