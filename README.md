@@ -13,7 +13,7 @@ I am learnign libraries like:
 - Socket.io
 - http-proxy
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsedberg&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="lsedberg" /></p>
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsedberg&theme=tokyonight) -->
