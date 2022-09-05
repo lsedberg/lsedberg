@@ -1,19 +1,19 @@
 ### Hi there, I'm Lucas
 
-My current favorite language is TypeScript.
+I create highly interactive web applications.
 
-Currently I am working on:
-- ReactJS frontend
-- NodeJS w/ Typescript backend
-- Other random Node projects
+I'm a 100% self-tought fullstack developer, creating both the frontend and backend, managing anything from databases to background colors.
 
-I am learning libraries like:
-- DiscordJS
-- Express
-- React
-- NextJS
+My current favorite frontend/fullstack framework is SvelteKit as it is efficent, fast and fun to develop with.
+TypeScript is what's running all the bits and pieces on both sides of the applications.
 
-I love being able to automate processes through code and APIs!
+However, I am also resarching and learning other languages and skills, such as:
+- Web/cloud hosting
+- Rust
+- C#
+- General computer and IT skills, etc.
+- Contributing and developing as part of a team 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsedberg&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="lsedberg" /></p>
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)-->
