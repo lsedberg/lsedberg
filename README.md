@@ -1,21 +1,25 @@
-### Hi there, I'm Lucas
+# Hallo
 
-I create highly interactive web applications.
+Hello! I'm Lucas, a tech enthusiast and aspiring entrepreneur from Norway. 
 
-I'm a 100% self-tought fullstack developer, creating both the frontend and backend, managing anything from databases to background colors.
+I'm passionate about autonomous and aerial vehicles, photography, programming, and innovation. 
 
-My current favorite frontend/fullstack framework is SvelteKit as it is efficent, fast and fun to develop with.
-TypeScript is what's running all the bits and pieces on both sides of the applications.
+I express my creativity through web development.
 
-However, I am also resarching and learning other languages and skills, such as:
-- Web/cloud hosting
-- Rust
-- C#
-- General computer and IT skills, etc.
-- Contributing and developing as part of a team 
+## Skills
+### My Langauges
+![My Languages](https://skillicons.dev/icons?i=ts,js,py,rust,cs,lua,html,css,svelte,svg,md,sass)
 
+### My Toolset
+![My Toolset](https://skillicons.dev/icons?i=vscode,nodejs,express,vite,ae,ai,pr,ps,xd,figma,blender,discord,bots,git,github,mysql,nginx,regex,sqlite,tailwind,tauri,threejs,vercel)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsedberg&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="lsedberg" /></p>
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsedberg&show_icons=true&theme=tokyonight)-->
+## Projects
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsedberg&theme=tokyonight) -->
+(more to be public soon)
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-sedberg/)
+- [Website Coming Soon™]
+
+More to this readme.md file coming soon™.
