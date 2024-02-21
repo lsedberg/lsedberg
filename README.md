@@ -19,7 +19,7 @@ I express my creativity through web development.
 
 ## Get in Touch
 
+- [Home Page](https://lucassedberg.com)
 - [LinkedIn](https://www.linkedin.com/in/lucas-sedberg/)
-- [Website Coming Soon™]
 
 More to this readme.md file coming soon™.
